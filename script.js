@@ -1,5 +1,5 @@
 
-    const electionDate = new Date("August 20, 2025 00:00:00").getTime();
+    const electionDate = new Date("August 14, 2025 00:00:00").getTime();
     const countdown = document.getElementById("countdown");
 
     function updateCountdown() {

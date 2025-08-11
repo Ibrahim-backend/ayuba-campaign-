@@ -13,7 +13,7 @@
 
     /* ====== THEME COLORS ====== */
     :root {
-      --primary: #007a33; /* FCE Green */
+      --primary: #7a3b00; /* FCE Green */
       --secondary: #ffffff; /* White */
       --accent: #ffd700; /* Gold */
     }
@@ -26,8 +26,8 @@
       padding: 80px 20px 60px;
     }
     header img {
-      width: 140px;
-      height: 140px;
+      width: 370px;
+      height: 540px;
       border-radius: 50%;
       border: 4px solid var(--accent);
       margin-bottom: 20px;
@@ -107,7 +107,8 @@
       text-align: center;
       margin-top: 20px;
       font-size: 1.5rem;
-      color: var(--accent);
+      color: blue;
+      padding: 250;
     }
 
     /* ====== CONTACT ====== */
