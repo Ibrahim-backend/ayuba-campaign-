@@ -16,6 +16,7 @@
       --primary: #7a3b00; /* FCE Green */
       --secondary: #ffffff; /* White */
       --accent: #ffd700; /* Gold */
+      
     }
 
     /* ====== HERO SECTION ====== */
@@ -26,8 +27,8 @@
       padding: 80px 20px 60px;
     }
     header img {
-      width: 370px;
-      height: 540px;
+      max-width: 100%;
+      height: auto;
       border-radius: 30%;
       border: 4px solid var(--accent);
       margin-bottom: 20px;
